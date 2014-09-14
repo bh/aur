@@ -3,7 +3,7 @@
 # Contributor: Tomas Strand <tomas@fik1.net>
 pkgname=libspotify
 pkgver=12.1.51
-pkgrel=2
+pkgrel=3
 pkgdesc="C API package allowing third-party developers to write applications that utilize the Spotify music streaming service"
 arch=(i686 x86_64 armv7h armv6h)
 url="https://developer.spotify.com/technologies/libspotify/"
